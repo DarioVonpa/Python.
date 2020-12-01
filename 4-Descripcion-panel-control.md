@@ -5,6 +5,7 @@ Como vemos en la siguiente imagen es una forma mas ordenada de ver opciones del 
 ![Texto alternativo](./imagenes/3.png "Título alternativo")
 ## app templates
 Plantillas predefinidas para crear contenedores
+![Texto alternativo](./imagenes/templates.png "Título alternativo")
 ## Networks
 Para trabajar con redes
 ## containers 
