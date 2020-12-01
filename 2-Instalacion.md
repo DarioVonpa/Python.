@@ -1,3 +1,3 @@
 # Instalación:
 
-[img1]: ./1.png "Título alternativo"
+![Texto alternativo](/ruta/a/la/imagen.jpg "Título alternativo")
