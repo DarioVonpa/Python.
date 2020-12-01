@@ -1,5 +1,5 @@
 # Descripción:
-## El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica.
+#### El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica.
 Índice:
 1. - Introducción
 2. - Instalación
@@ -8,7 +8,7 @@
 5. - Despliegue de un contenedor httpd con una paǵina personalizada y mapeaa por el puerto 8082.
 
 # Referencias:
-## Debes indicar las referencias utilizadas: Vídeos, páginas web, etc.
+#### Debes indicar las referencias utilizadas: Vídeos, páginas web, etc.
 
 
 # Conclusión:
