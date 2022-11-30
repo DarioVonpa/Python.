@@ -1,8 +1,8 @@
 # Descripción:
 #### El proyecto python.
 **Índice:**
-1. [- Listas:Temperaturas](./1-temperaturas.md)
-2. [- Cadenas:virus](./1-virus.md)
+1. [- Listas: Temperaturas](./1-temperaturas.md)
+2. [- Cadenas: virus](./1-virus.md)
 
 
 # Referencias:
