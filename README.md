@@ -1,8 +1,8 @@
 # Descripción:
 #### El proyecto python.
 **1.- Listas: Temperaturas:**
-A. [- a)Código comentado](./1a.md)
-B. [- b)Ejecución](./1b.md)
+1. [- a)Código comentado](./1a.md)
+2. [- b)Ejecución](./1b.md)
 **2.- Cadenas: Virus:**
 A. [- a)Código comentado](./2a.md)
 B. [- b)Ejecución](./2b.md)
