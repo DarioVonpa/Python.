@@ -3,7 +3,7 @@
 **Índice:**
 1. [- Listas: Temperaturas]
    a) Código [- código](./1a.md)
-   b) Ejecución [- Ejecución](./1b.md)
+   b) [-Ejecución](./1b.md)
 2. [- Cadenas: virus](./1-virus.md)
 
 
