@@ -1,11 +1,11 @@
 # Descripción:
 #### El proyecto python.
-**Índice:**
-#1. [- Listas: Temperaturas]
-   a) [-código](./1a.md)
-   b) [-Ejecución](./1b.md)
-#2. [- Cadenas: virus](./1-virus.md)
-
+**1.- Listas: Temperaturas:**
+A. [- a)Código comentado](./1a.md)
+B. [- b)Ejecución](./1b.md)
+**2.- Cadenas: Virus:**
+A. [- a)Código comentado](./2a.md)
+B. [- b)Ejecución](./2b.md)
 
 # Referencias:
 #### Debes indicar las referencias utilizadas: Vídeos, páginas web, etc.
