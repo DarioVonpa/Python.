@@ -2,11 +2,11 @@
 #### El proyecto python.
 
 1.  **Listas: Temperaturas:**
-    - [-)Código comentado](./1a.md)
-    - [-)Ejecución](./1b.md)
+    - [Código comentado](./1a.md)
+    - [Ejecución](./1b.md)
 2.  **Cadenas: Virus:**
-    - [-)Código comentado](./2a.md)
-    - [-)Ejecución](./2b.md)
+    - [Código comentado](./2a.md)
+    - [Ejecución](./2b.md)
    
 # Referencias:
 #### Debes indicar las referencias utilizadas: Vídeos, páginas web, etc.
