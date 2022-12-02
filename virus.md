@@ -2,7 +2,7 @@
 
 #### planteamiento del problema
 Se ha descubierto una nueva variante del COVID. Se identifica porque tiene la siguiente secuencia:   
-##ccucggcgggca##  
+## ccucggcgggca ##  
 Realiza un programa en Python que, dada una cadena, compruebe si contiene esa cadena prefefinida.  
 La cadena de genoma la debe generar Python. Contendrá 50 caracteres.  
 
