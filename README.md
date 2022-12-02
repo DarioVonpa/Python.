@@ -1,10 +1,10 @@
 # Descripción:
 #### El proyecto python.
 
-**1.  [Listas: Temperaturas:](./temperaturas.md)**
+1.  [Listas: Temperaturas:](./temperaturas.md)
     - [Código comentado](./1a.md)
     - [Ejecución](./1b.md)
-2.  **Cadenas: Virus:**(./virus.md)
+2.  [Cadenas: Virus:](./virus.md)
     - [Código comentado](./2a.md)
     - [Ejecución](./2b.md)
    
