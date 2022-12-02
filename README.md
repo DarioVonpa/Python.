@@ -9,8 +9,8 @@
     - [Ejecución](./2b.md)
    
 # Referencias:
-#### Debes indicar las referencias utilizadas: Vídeos, páginas web, etc.
-para la generación de números aleatoria : [página web a visitar][enlace]
+#### Referencias utilizadas: Vídeos, páginas web, etc.
+Generación de números aleatoria : [página web a visitar][enlace]
 
 
 [enlace]: https://www.youtube.com/watch?v=SR-O2_qsAqY
